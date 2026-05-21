@@ -8,4 +8,4 @@ This project is created strictly for **learning and educational purposes**. It i
 ## Inspiration & References
 The implementation and design patterns are inspired by the following resources:
 * **Source Reference:** [Concept and Coding - Tic-Tac-Toe Board.java](https://gitlab.com/shrayansh8/interviewcodingpractise/-/blob/main/src/main/java/com/conceptandcoding/LowLevelDesign/LLDTicTacToe/Model/Board.java?ref_type=heads)
-* **GitLab Repository:** [Interview Coding Practice by Shrayansh](https://gitlab.com/shrayansh8/interviewcodingpractise)
+
